@@ -7,6 +7,8 @@
 * CSS Grid
 
 ### Как запустить:
+```
 git clone
 npm i
 npm start
+```
